@@ -1,0 +1,25 @@
+header {
+  background-color: rgb(46, 0, 252);
+  height: 150px;
+  padding: 20px;
+  font-family: "Arial Black", Gadget, sans-serif;
+font-size: 32px;
+letter-spacing: -2.8px;
+word-spacing: -0.4px;
+color: #F9FF34;
+font-weight: 700;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+}
+
+.navbar li {
+	display: inline-block;
+	padding: 25px 0px;
+	text-align: center;
+	width: 33%;
+}
+
+
+
