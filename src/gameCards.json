@@ -55,8 +55,8 @@
   },
   {
     "id": 10,
-    "name": "rod",
-    "image": "./images/rod.jpg",
+    "name": "roddy",
+    "image": "./images/roddy.jpg",
     "hasBeenClicked": false
   },
   {
