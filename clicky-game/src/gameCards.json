@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "flair",
+    "image": "./images/flair.jpg",
+    "hasBeenClicked": false
+  },  
+  {
+    "id": 2,
+    "name": "andre",
+    "image": "./images/andre.jpg",
+    "hasBeenClicked": false
+  },
+  {
+    "id": 3,
+    "name": "hart",
+    "image": "./images/hart.jpg",
+    "hasBeenClicked": false
+  },
+  {
+    "id": 4,
+    "name": "hbk",
+    "image": "./images/hbk.jpg",
+    "hasBeenClicked": false
+  },
+  {
+    "id": 5,
+    "name": "hogan",
+    "image": "./images/hogan.jpg",
+    "hasBeenClicked": false
+  },
+  {
+    "id": 6,
+    "name": "jake",
+    "image": "./images/jake.jpg",
+    "hasBeenClicked": false
+  },
+  {
+    "id": 7,
+    "name": "macho",
+    "image": "./images/macho.jpg",
+    "hasBeenClicked": false
+  },
+  {
+    "id": 8,
+    "name": "mantaur",
+    "image": "./images/mantaur.jpg",
+    "hasBeenClicked": false
+  },
+  {
+    "id": 9,
+    "name": "razor",
+    "image": "./images/razor.jpg",
+    "hasBeenClicked": false
+  },
+  {
+    "id": 10,
+    "name": "rod",
+    "image": "./images/rod.jpg",
+    "hasBeenClicked": false
+  },
+  {
+    "id": 11,
+    "name": "taker",
+    "image": "./images/taker.jpg",
+    "hasBeenClicked": false
+  },
+  {
+    "id": 12,
+    "name": "warrior",
+    "image": "./images/warrior.jpg",
+    "hasBeenClicked": false
+  }
+]
+
